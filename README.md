@@ -57,6 +57,7 @@
 <br/>
 
 ### 2일차
+[강의노트 2일차](https://www.notion.so/alleyful/2-7b904e1b25c840a1a2a8be6687877cbc)
 1. 오늘 배울 것
     - 지난 시간에 배운 크롤링 기술을 이용하여 이번에는 기사들을 수집해봅시다!
     - 수집한 기사들을 엑셀 파일로 정리해보겠습니다.
@@ -137,7 +138,7 @@
 
 - 아깽이 이미지 저장
 
-    ![아깽](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e4e0257-2176-41b7-b214-e65ea103451c/_2020-10-02__1.17.23.png)
+    ![아깽](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6e4e0257-2176-41b7-b214-e65ea103451c%2F_2020-10-02__1.17.23.png?table=block&id=1f0a8ba2-1b89-4abf-889b-e3ae2bff3568&width=3840&userId=60aa6736-520c-4208-89e1-d0dadc44a6b7&cache=v2)
 
 - 추석기사 크롤링 엑셀파일
 
@@ -145,7 +146,7 @@
 
 - 워드클라우드
 
-    ![워드클라우드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a84557c5-c321-4392-a991-1ec42dca842b/result_masked.png)
+    ![워드클라우드](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa84557c5-c321-4392-a991-1ec42dca842b%2Fresult_masked.png?table=block&id=a9978c6e-9ff0-4e26-b484-daa98e6ae334&width=3840&userId=60aa6736-520c-4208-89e1-d0dadc44a6b7&cache=v2)
 
 ## 03. 보완/발전하고 싶은 점
 
