@@ -1,0 +1,11 @@
+venv/
+.idea/
+images/
+img_homework/
+
+# temporary files
+*.log
+*.pot
+*.pyc
+__pycache__/
+.env
